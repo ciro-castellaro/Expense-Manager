@@ -1,10 +1,13 @@
-# COMO USAR EL GESTOR DE GASTOS
+# HOW TO USE THE EXPENSE MANAGER
 
-1- descargar el archive .py, el .csv y las dependencias
+1- Download the `.py` file, the `.csv` file, and the required dependencies.
 
-Usar cmd y poner el siguiente commando para instalar la librería pandas:
+Open CMD and run the following command to install the Pandas library:
+
+```bash
 pip install pandas
+```
 
-2- una vez inicializado el script poner la categoria y el monto
+2- Once the script is running, enter the expense category and amount.
 
-3- para revisar gastos simplemente tocar el boton que dice "Revisar gastos"
+3- To review your expenses, simply click the **"Review Expenses"** button.
